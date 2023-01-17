@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdiGitTagInfo>
+   <ParamMap>
+      <param value="/Work Repository/Models/local/TESTGITmodel/MOD_TESTGITmodel.xml"/>
+      <param value="/Work Repository/Projects/PROJ1/PROJ_PROJ1.xml"/>
+      <param value="/Work Repository/Models/local/MFOL_local.xml"/>
+      <param value="/Work Repository/Projects/PROJ1/folder1/FOLD_folder1.xml"/>
+      <param value="/Work Repository/Models/local/TESTGITmodel/Global/TAB_EMP2.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/local/PSC_local_TESTGIT.xml"/>
+      <param value="/Work Repository/Models/local/TESTGITmodel/Global/SMOD_Global.xml"/>
+      <param value="/Work Repository/Models/local/TESTGITmodel/Global/TAB_EMP.xml"/>
+      <param value="/Master Repository/Languages/LANG_SQL.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Logical Architecture/LSC_logic_TESTGIT.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/local/CONN_local.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Global.xml"/>
+      <param value="/Work Repository/Projects/PROJ1/folder1/Mappings/MAP_mapping2.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/TECH_Oracle.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Production.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Development.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Test.xml"/>
+   </ParamMap>
+</OdiGitTagInfo>
